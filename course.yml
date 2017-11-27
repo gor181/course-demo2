@@ -7,7 +7,6 @@ time_needed: 1 hour
 datasets:
   demo.csv: Demo
 instructors: # DataCamp connected email of the creator of the Project
-  - goran+instructor@datacamp.com
   - 4 # goran@datacamp.com
 collaborators: # DataCamp connected email of people that helped with teh Project
   - goran+author@datacamp.com
