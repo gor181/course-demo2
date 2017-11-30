@@ -8,3 +8,4 @@ datasets:
   demo.csv: Demo
 instructors: # DataCamp connected email of the creator of the Project
   - 4 # goran@datacamp.com
+  - 9999 # test non existing id
